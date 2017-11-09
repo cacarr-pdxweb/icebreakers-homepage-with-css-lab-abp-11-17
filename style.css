@@ -45,8 +45,9 @@ nav a:hover {
   text-decoration: underline;
 }
 
-#header header h3 {
+h3#header {
   float: left;
+  font-size: 30px;
 }
 
 main {
